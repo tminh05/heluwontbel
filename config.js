@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Ai đọc được là người đó bel nhất the gioi",
-    introTitle: 'wont bel',
+    introTitle: 'gửi wont belll',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
