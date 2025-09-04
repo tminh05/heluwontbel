@@ -5,15 +5,15 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hehee',
+    btnIntro: 'lét gô',
     title: 'wont có bel 0? 🥰(thú vị hơn khi chọn B:>>)',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
+    desc: 'wont bel chuche biet dap xe',
     btnYes: 'A:co',
     btnNo: 'B:0',
-    question: 'Trên thế giới hơn 8 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
+    question: 'Tại sao wont bel lại xing gái chuche đến vậy, giải thích cho muộn đii',
+    btnReply: 'nhấn vào đây nha wont bel:>',
+    reply: 'xinh với chuche thì ai cũng biết, nhưng bel như wont chỉ có 1 thoi',
+    mess: 'muộn biết mà 🥰, wont belll',
+    messDesc: 'cho muộn kí sinh ở bên má trái của wont bel nhé hứa 0 cắn chỉ thơm thoi😚 .',
     btnAccept: 'Okiiiii lun <3',
 }
